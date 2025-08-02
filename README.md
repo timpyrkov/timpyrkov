@@ -1,4 +1,4 @@
-## Quick topic groups of my repositories
+## Quick view of repositories by topic
 
 ⌚️ [Actogram](https://github.com/timpyrkov?tab=repositories&q=topic%3Aactogram): Analysis of circadian rhythms based on wearable device data streams<br>
 👟 [Wearables](https://github.com/timpyrkov?tab=repositories&q=topic%3Awearables): Other tools for analysis of wearable device data streams<br>
